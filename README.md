@@ -1,4 +1,4 @@
-# flutter_fireabsecrud
+# Flutter UI Sample Ecommerce
 
 A new Flutter project.
 
