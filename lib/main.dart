@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_fireabsecrud/constants.dart';
 import 'package:flutter_fireabsecrud/screens/home/home_screen.dart';
+import 'package:flutter_fireabsecrud/screens/splash/splash_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -18,8 +19,9 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         textTheme: Theme.of(context).textTheme.apply(bodyColor: kTextColor),
         primarySwatch: Colors.blue,
+        inputDecorationTheme: const InputDecorationTheme(border: OutlineInputBorder())
       ),
-      home: const HomeScreen(),
+      home: const SplashScreen(),
     );
   }
 }
