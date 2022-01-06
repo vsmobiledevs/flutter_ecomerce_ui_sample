@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-![Demo Android and iOS] ![](https://user-images.githubusercontent.com/91531949/146945252-e28f4a8d-b710-4487-90db-325699aa074d.gif)
+![Demo Android and iOS] ![](https://user-images.githubusercontent.com/91531949/148401300-2f5ff5b9-9e09-4f4b-8246-acbdd4c670fd.png)
 
 A few resources to get you started if this is your first Flutter project:
 
